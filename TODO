@@ -1,0 +1,1 @@
+before configuring a crtc with a connector, need to see if the connector is compatible with the CRTC (via encoder->possible_crtcs). see example code in drm-kms(7)
